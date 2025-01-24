@@ -38,5 +38,3 @@
 - 🌍 [Digimedic](https://www.digimedic.cz/)
 
 ---
-
-![Footer GIF](https://media.giphy.com/media/xT1XGXHhgBB2HbYajG/giphy.gif)
