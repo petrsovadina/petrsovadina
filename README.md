@@ -2,8 +2,6 @@
 
 🎯 Zaměřuji se na Full-stack vývoj, umělou inteligenci a digitalizaci zdravotnického sektoru.  
 💡 Kombinuji zkušenosti z grafického designu, marketingu a IT, abych vytvářel inovativní technologická řešení.  
-📚 Neustále se učím a implementuji nejnovější technologie, jako je LangChain, Hugging Face a OpenAI GPT.
-
 ---
 
 ## 🛠 Technologie a nástroje
