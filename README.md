@@ -2,6 +2,7 @@
 
 🎯 Zaměřuji se na Full-stack vývoj, umělou inteligenci a digitalizaci zdravotnického sektoru.  
 💡 Kombinuji zkušenosti z grafického designu, marketingu a IT, abych vytvářel inovativní technologická řešení.  
+
 ---
 
 ## 🛠 Technologie a nástroje
