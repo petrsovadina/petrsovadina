@@ -10,18 +10,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sovadina.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petr.sovadina9@gmail.com)
 
-</div>
-
----
-
-## 🏥 What I do
-
-```text
-Healthcare AI    ██████████████████████░░░  Systems serving 4,000+ doctors & 1M+ patients
-LLM / RAG        ████████████████████░░░░░  LangChain, LangGraph, agents, MCP
-Full-stack       ██████████████████░░░░░░░  Python · TypeScript · Next.js · FastAPI
-Infrastructure   ████████████████░░░░░░░░░  Docker · K8s · Azure · Pinecone
-```
 
 ## 🛠️ Tech Stack
 
@@ -103,24 +91,6 @@ Currently working on healthcare AI infrastructure at scale — agent orchestrati
 </td>
 </tr>
 </table>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=petrsovadina&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrsovadina&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=petrsovadina&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
-## 🧬 My Story
-
-> I grew up in a family of doctors and got my insulin pump at 12.
-> Healthcare is where I belong — building AI that actually helps clinicians and patients.
-
-I combine deep understanding of clinical workflows with production AI engineering to create systems that make a real difference in healthcare. Currently serving **4,000+ doctors** and **1M+ patients** through production LLM/RAG systems.
 
 ---
 
